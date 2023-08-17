@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/zacBkh/zacBkh/assets/108217390/7ce30514-1876-4f0e-b6a5-bf5723aae29c" alt="Hi, I'm Zach 👋 A French Web Developer 🚀 I love coding, videography & hiking!">
+</p>
+
 # Hi, I'm Zach 👋🏼 👨‍💻
 
 I am a full-stack Web Developer, living between Paris & Dubai 📍 <br/>
