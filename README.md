@@ -11,7 +11,7 @@ Truly passionnate about engineering, I am amazed how Web brings developers all a
 
 📸 I am also a professional videographer/photographer
 
-🤓 I wrote my first line of code at 15 years old, getting paid 25€ to create a superbasic .html file
+🤓 I wrote my first line of code at 15 y.o, got paid 25€ to create a superbasic .html file
 
 🌏 I have visited 62 countries and lived full-time in 4 of them
 
