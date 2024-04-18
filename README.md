@@ -4,8 +4,8 @@
 
 # Hi, I'm Zach 👋🏼 👨‍💻
 
-I am a full-stack Web Developer, living between Paris & Dubai 📍 <br/>
-Truly passionnate about engineering, I am amazed how Web brings developers all around the world together to solve problems 🧠
+I am a full-stack Web Developer, from Paris, but living in Dubai 📍 <br/>
+Truly passionnate about engineering, I am amazed how Web brings developers from all around the world to solve business problems 🧠
 
 ## Fun facts about me 😎
 
@@ -15,7 +15,7 @@ Truly passionnate about engineering, I am amazed how Web brings developers all a
 
 🌏 I have visited 62 countries and lived full-time in 4 of them
 
-## My current stack 🏋🏼
+## My current stack ⚡
 
 <!-- HTML -->
 
@@ -43,7 +43,7 @@ Truly passionnate about engineering, I am amazed how Web brings developers all a
 
 <!-- TAILWIND -->
 
-<img align="left" alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="padding-right:10px;" />
 
 <!-- NODE -->
 
