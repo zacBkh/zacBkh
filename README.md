@@ -43,7 +43,7 @@ Truly passionnate about engineering, I am amazed how Web brings developers from 
 
 <!-- TAILWIND -->
 
-<img align="left" alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
 
 <!-- NODE -->
 
