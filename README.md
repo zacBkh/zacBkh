@@ -4,12 +4,10 @@
 
 # Hi, I'm Zach 👋🏼 👨‍💻
 
-I am a full-stack Web Developer, from Paris, but living in Dubai 📍 <br/>
+I am a full-stack Web Developer, from France 📍 <br/>
 Truly passionnate about engineering, I am amazed how Web brings developers from all around the world to solve business problems 🧠
 
 ## Fun facts about me 😎
-
-📸 I am also a professional videographer/photographer
 
 🤓 I wrote my first line of code at 15 y.o, got paid 25€ to create a superbasic .html file
 
